@@ -2,6 +2,10 @@
 - An app to use zero-shot image classification models to analyze and describe an image and identify and classify animals in it. 
 - All these while creating custom AI Agent.
 
+# Demo
+![Uploading image.png…]()
+
+
 # How to Use
 - npm install
 - npm run dev
