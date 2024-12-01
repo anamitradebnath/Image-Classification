@@ -3,7 +3,8 @@
 - All these while creating custom AI Agent.
 
 # Demo
-![Uploading image.png…]()
+<img width="240" alt="Screenshot 2024-12-01 at 7 00 16 PM" src="https://github.com/user-attachments/assets/cd69dab4-6682-4ad0-a991-d8e48cf1a35d">
+<img width="662" alt="Screenshot 2024-12-01 at 7 01 19 PM" src="https://github.com/user-attachments/assets/e6a7f994-e2e1-49e1-8d6c-51130bc3f06f">
 
 
 # How to Use
