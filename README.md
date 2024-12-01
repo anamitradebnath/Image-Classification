@@ -12,10 +12,14 @@
 - npm run dev
 
 # Todo
-- use zero-shot model
-- use state management like recoil for smoother state management
+- [Done] use zero-shot model
+- [Done] use state management like recoil for smoother state management
+- Fix issue while calling classification and Summarize
 
 # Technologies used
 - vision/image model: nlpconnect/vit-gpt2-image-captioning
 - React
 - Typescript
+- Recoil
+- Zero-shot classification model
+- Custom AI Agent
