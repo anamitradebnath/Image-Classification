@@ -11,8 +11,13 @@
   },
   "dependencies": {
     "@huggingface/inference": "^2.8.1",
+    "@xenova/transformers": "^2.17.2",
+    "axios": "^1.7.8",
+    "hyntax": "^1.1.9",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "recoil": "^0.7.7",
+    "wikijs": "^6.4.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",

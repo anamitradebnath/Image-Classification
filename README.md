@@ -1,4 +1,6 @@
-## App: Image Identification and Classification
+## App: Image Identification and Classification using Zero-shot
+- An app to use zero-shot image classification models to analyze and describe an image and identify and classify animals in it. 
+- All these while creating custom AI Agent.
 
 # How to Use
 - npm install
