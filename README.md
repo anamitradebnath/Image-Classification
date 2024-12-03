@@ -12,7 +12,7 @@
 - npm run dev
 
 # Todo
-- [Done] use zero-shot model
+- [Done] use zero-shot model, facebook-bart-large-mnli
 - [Done] use state management like recoil for smoother state management
 - Fix issue while calling classification and Summarize
 
